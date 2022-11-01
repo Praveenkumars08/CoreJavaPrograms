@@ -9,6 +9,8 @@ public class WhileLoopExample {
 		 * then it will come inside the loop and print the message. After printing the message
 		 * we need to either increment or decrement the value. If we don't then the condition will
 		 * always be true and will go into infinite loop.
+		 * use case : When the number of iterations are not fixed (ie) we really don't know
+		 * how many times the loop will run then we can use while loop.
 		 */
 		
 		int a = 1;
