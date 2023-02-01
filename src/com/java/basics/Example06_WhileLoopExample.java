@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class WhileLoopExample {
+public class Example06_WhileLoopExample {
 	
 	public static void main(String[] args) {
 		

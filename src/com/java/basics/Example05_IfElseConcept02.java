@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class IfElseExample02 {
+public class Example05_IfElseConcept02 {
 	
 	public static void main(String[] args) {
 		

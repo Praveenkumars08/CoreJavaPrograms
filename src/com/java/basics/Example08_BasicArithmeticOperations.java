@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class BasicArithmeticOperations {
+public class Example08_BasicArithmeticOperations {
 
 	public static void main(String[] args) {
 		

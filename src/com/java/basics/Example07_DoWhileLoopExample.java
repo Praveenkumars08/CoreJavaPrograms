@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class DoWhileLoopExample {
+public class Example07_DoWhileLoopExample {
 	
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class PrimitiveDataTypesExample {
+public class Example01_PrimitiveDataTypesExample {
 	
 	public static void main(String[] args) {
 		

@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class TypeCastinginJava {
+public class Example02_TypeCastinginJava {
 	
 	public static void main(String[] args) {
 		

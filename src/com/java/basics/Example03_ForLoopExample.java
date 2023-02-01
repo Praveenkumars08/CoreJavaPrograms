@@ -1,6 +1,6 @@
 package com.java.basics;
 
-public class ForLoopExample {
+public class Example03_ForLoopExample {
 	
 	public static void main(String[] args) {
 		
